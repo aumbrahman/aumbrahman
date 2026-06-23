@@ -1,6 +1,6 @@
 # About Me:
 I am a third-year B.Tech student in Electronics and Communication Engineering with a strong interest in VLSI design, digital electronics, embedded systems, and semiconductor technology.<br><br>My current learning focuses on Verilog HDL, digital design fundamentals, RTL development, and embedded systems using ESP32. I also work with Python, Git, and Linux, which help me build projects and improve my development workflow.<br><br>I enjoy understanding how hardware and software interact, from transistor-level concepts to system-level design. Currently, I am building hands-on projects in VLSI and embedded systems while preparing for opportunities in semiconductor design and related engineering domains.<br><br>I am always eager to learn, collaborate, and connect with people working in VLSI, digital design, embedded systems, and semiconductor technology.
-
+---
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishna-pandey-385311396) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnapandey08999@gmail.com) 
